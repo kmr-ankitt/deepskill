@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "xd9kDrF3LgE=",
+  "success": true,
+  "projectFilePath": "/home/ankit/Dev/test/deepskill/nunit and moq/MoqAssignment/CustomerComm.Tests/CustomerComm.Tests.csproj",
+  "expectedPackageFiles": [
+    "/home/ankit/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/home/ankit/.nuget/packages/microsoft.applicationinsights/2.23.0/microsoft.applicationinsights.2.23.0.nupkg.sha512",
+    "/home/ankit/.nuget/packages/microsoft.codecoverage/18.6.0/microsoft.codecoverage.18.6.0.nupkg.sha512",
+    "/home/ankit/.nuget/packages/microsoft.extensions.dependencymodel/8.0.2/microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
+    "/home/ankit/.nuget/packages/microsoft.net.test.sdk/18.6.0/microsoft.net.test.sdk.18.6.0.nupkg.sha512",
+    "/home/ankit/.nuget/packages/microsoft.testing.extensions.telemetry/2.1.0/microsoft.testing.extensions.telemetry.2.1.0.nupkg.sha512",
+    "/home/ankit/.nuget/packages/microsoft.testing.extensions.trxreport.abstractions/2.1.0/microsoft.testing.extensions.trxreport.abstractions.2.1.0.nupkg.sha512",
+    "/home/ankit/.nuget/packages/microsoft.testing.extensions.vstestbridge/2.1.0/microsoft.testing.extensions.vstestbridge.2.1.0.nupkg.sha512",
+    "/home/ankit/.nuget/packages/microsoft.testing.platform/2.1.0/microsoft.testing.platform.2.1.0.nupkg.sha512",
+    "/home/ankit/.nuget/packages/microsoft.testing.platform.msbuild/2.1.0/microsoft.testing.platform.msbuild.2.1.0.nupkg.sha512",
+    "/home/ankit/.nuget/packages/microsoft.testplatform.objectmodel/18.6.0/microsoft.testplatform.objectmodel.18.6.0.nupkg.sha512",
+    "/home/ankit/.nuget/packages/microsoft.testplatform.testhost/18.6.0/microsoft.testplatform.testhost.18.6.0.nupkg.sha512",
+    "/home/ankit/.nuget/packages/moq/4.20.72/moq.4.20.72.nupkg.sha512",
+    "/home/ankit/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/ankit/.nuget/packages/nunit/4.6.1/nunit.4.6.1.nupkg.sha512",
+    "/home/ankit/.nuget/packages/nunit3testadapter/6.2.0/nunit3testadapter.6.2.0.nupkg.sha512",
+    "/home/ankit/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "/home/ankit/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.8/microsoft.aspnetcore.app.ref.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

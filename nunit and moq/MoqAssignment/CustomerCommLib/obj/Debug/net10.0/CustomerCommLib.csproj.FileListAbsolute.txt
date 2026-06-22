@@ -1,0 +1,24 @@
+C:/Users/Admin/Documents/deepSkillHandson/NunitAndMoq/MoqAssignment/CustomerCommLib/bin/Debug/net10.0/CustomerCommLib.deps.json
+C:/Users/Admin/Documents/deepSkillHandson/NunitAndMoq/MoqAssignment/CustomerCommLib/bin/Debug/net10.0/CustomerCommLib.dll
+C:/Users/Admin/Documents/deepSkillHandson/NunitAndMoq/MoqAssignment/CustomerCommLib/bin/Debug/net10.0/CustomerCommLib.pdb
+C:/Users/Admin/Documents/deepSkillHandson/NunitAndMoq/MoqAssignment/CustomerCommLib/obj/Debug/net10.0/CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Admin/Documents/deepSkillHandson/NunitAndMoq/MoqAssignment/CustomerCommLib/obj/Debug/net10.0/CustomerCommLib.AssemblyInfoInputs.cache
+C:/Users/Admin/Documents/deepSkillHandson/NunitAndMoq/MoqAssignment/CustomerCommLib/obj/Debug/net10.0/CustomerCommLib.AssemblyInfo.cs
+C:/Users/Admin/Documents/deepSkillHandson/NunitAndMoq/MoqAssignment/CustomerCommLib/obj/Debug/net10.0/CustomerCommLib.csproj.CoreCompileInputs.cache
+C:/Users/Admin/Documents/deepSkillHandson/NunitAndMoq/MoqAssignment/CustomerCommLib/obj/Debug/net10.0/CustomerCommLib.sourcelink.json
+C:/Users/Admin/Documents/deepSkillHandson/NunitAndMoq/MoqAssignment/CustomerCommLib/obj/Debug/net10.0/CustomerCommLib.dll
+C:/Users/Admin/Documents/deepSkillHandson/NunitAndMoq/MoqAssignment/CustomerCommLib/obj/Debug/net10.0/refint/CustomerCommLib.dll
+C:/Users/Admin/Documents/deepSkillHandson/NunitAndMoq/MoqAssignment/CustomerCommLib/obj/Debug/net10.0/CustomerCommLib.pdb
+C:/Users/Admin/Documents/deepSkillHandson/NunitAndMoq/MoqAssignment/CustomerCommLib/obj/Debug/net10.0/ref/CustomerCommLib.dll
+/home/ankit/Dev/test/deepskill/nunit and moq/MoqAssignment/CustomerCommLib/bin/Debug/net10.0/CustomerCommLib.deps.json
+/home/ankit/Dev/test/deepskill/nunit and moq/MoqAssignment/CustomerCommLib/bin/Debug/net10.0/CustomerCommLib.dll
+/home/ankit/Dev/test/deepskill/nunit and moq/MoqAssignment/CustomerCommLib/bin/Debug/net10.0/CustomerCommLib.pdb
+/home/ankit/Dev/test/deepskill/nunit and moq/MoqAssignment/CustomerCommLib/obj/Debug/net10.0/CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/ankit/Dev/test/deepskill/nunit and moq/MoqAssignment/CustomerCommLib/obj/Debug/net10.0/CustomerCommLib.AssemblyInfoInputs.cache
+/home/ankit/Dev/test/deepskill/nunit and moq/MoqAssignment/CustomerCommLib/obj/Debug/net10.0/CustomerCommLib.AssemblyInfo.cs
+/home/ankit/Dev/test/deepskill/nunit and moq/MoqAssignment/CustomerCommLib/obj/Debug/net10.0/CustomerCommLib.csproj.CoreCompileInputs.cache
+/home/ankit/Dev/test/deepskill/nunit and moq/MoqAssignment/CustomerCommLib/obj/Debug/net10.0/CustomerCommLib.sourcelink.json
+/home/ankit/Dev/test/deepskill/nunit and moq/MoqAssignment/CustomerCommLib/obj/Debug/net10.0/CustomerCommLib.dll
+/home/ankit/Dev/test/deepskill/nunit and moq/MoqAssignment/CustomerCommLib/obj/Debug/net10.0/refint/CustomerCommLib.dll
+/home/ankit/Dev/test/deepskill/nunit and moq/MoqAssignment/CustomerCommLib/obj/Debug/net10.0/CustomerCommLib.pdb
+/home/ankit/Dev/test/deepskill/nunit and moq/MoqAssignment/CustomerCommLib/obj/Debug/net10.0/ref/CustomerCommLib.dll

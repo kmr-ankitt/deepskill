@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "apbEdeCBWRA=",
+  "success": true,
+  "projectFilePath": "/home/ankit/Dev/test/deepskill/nunit and moq/MoqAssignment/CustomerCommLib/CustomerCommLib.csproj",
+  "expectedPackageFiles": [
+    "/home/ankit/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.8/microsoft.aspnetcore.app.ref.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
