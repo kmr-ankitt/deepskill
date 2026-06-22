@@ -1,0 +1,56 @@
+USE OnlineRetailStore;
+GO
+
+CREATE PROCEDURE sp_GetEmployeesByDepartment
+    @DepartmentID INT
+AS
+BEGIN
+    SELECT *
+    FROM Employees
+    WHERE DepartmentID = @DepartmentID;
+END;
+GO
+
+EXEC sp_GetEmployeesByDepartment 3;
+GO
+
+CREATE PROCEDURE sp_InsertEmployee
+    @EmployeeID INT,
+    @FirstName VARCHAR(50),
+    @LastName VARCHAR(50),
+    @DepartmentID INT,
+    @Salary DECIMAL(10,2),
+    @JoinDate DATE
+AS
+BEGIN
+    INSERT INTO Employees
+    (
+        EmployeeID,
+        FirstName,
+        LastName,
+        DepartmentID,
+        Salary,
+        JoinDate
+    )
+    VALUES
+    (
+        @EmployeeID,
+        @FirstName,
+        @LastName,
+        @DepartmentID,
+        @Salary,
+        @JoinDate
+    );
+END;
+GO
+
+EXEC sp_InsertEmployee
+    5,
+    'Ankit',
+    'Kumar',
+    3,
+    8000,
+    '2025-06-22';
+GO
+
+SELECT * FROM Employees;
